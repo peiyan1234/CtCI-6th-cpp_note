@@ -1,0 +1,8 @@
+
+1. Ask what kind of string is given, ASCII, entended ASCII, or Unicode?
+
+   Why ? ASCII string has 128 unique characters,
+         Extened ASCII string has 256 unique characters, and
+         Unicode string has 143,859 unique characters.
+         
+   
